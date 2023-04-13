@@ -1,0 +1,19 @@
+{
+  "name": "kita.moe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edison Lee <edisonlee@edisonlee55.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tocas": "^4.2.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
